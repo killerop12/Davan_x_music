@@ -2,10 +2,10 @@
 
 
 <p align="center">
-<br><b> 𝗞𝗛𝗨𝗦𝗛𝗜𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖
+<br><b> 𝙌𝙐𝙄𝙕 𝐕𝘾 𝗕𝗢𝗧
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/BRANDED_LINK"><img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg"></a></p>
+<p align="center"><a href="https://t.me/MUSICBOT_OWNER"><img src="https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg"></a></p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -50,7 +50,7 @@ bash start
 
 ### ᴄʀᴇᴅɪᴛs 💖
 - [WCGKING](https://github.com/WCGKING): Developer
-- [Branded](https://t.me/KHUSHI_MUSIC_82BOT): Test Bot
+- [Branded](https://t.me/QUIZVCBOT): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
@@ -58,6 +58,6 @@ bash start
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Support & Developer 🎑
-<a href="https://t.me/BRANDED_LINK"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/BRANDRD_21"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/BWF_MUSIC1"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/MUSICBOT_OWNER"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
