@@ -29,7 +29,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     pos = int(y)
 
     line = "—"
-    circle = "◉"
+    circle = "💔"
 
     bar = line*(pos-1)
     bar += circle
@@ -59,11 +59,11 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="◉ ᴍᴇɴᴜ ",
+                text="🎁 ᴍᴇɴᴜ ",
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="◉ ᴏᴡɴᴇʀ ", url=f"https://t.me/II_ASHISH_GUPTA_IIl"
+                text="👑 ᴏᴡɴᴇʀ ", url=f"https://t.me/II_ASHISH_GUPTA_IIl"
             )
         ],
         [
@@ -83,7 +83,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
     pos = int(y)
 
     line = "—"
-    circle = "◉"
+    circle = "💔"
 
     bar = line*(pos-1)
     bar += circle
