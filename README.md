@@ -2,15 +2,15 @@
 
 
 <p align="center">
-<br><b> ˹ʙᴇwᴀꜰᴀ ✘ ᴍᴜsɪᴄ˼
+<br><b> ˹Killer ✘ Qayamat˼
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/MUSICBOT_OWNER"><img src="https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg"></a></p>
+<p align="center"><a href="https://t.me/MUSICBOT_OWNER"><img src="https://graph.org/file/bf191b068f587d5ef6c34.jpg"></a></p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Bewafa+play+music+on+telegram+voice+chat+feature;Managed+by+L2R+King%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=killer+qayamat+music+on+telegram+voice+chat+feature;Managed+by+L2R+King%E2%9D%A4%EF%B8%8F"> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
